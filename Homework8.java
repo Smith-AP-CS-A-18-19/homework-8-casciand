@@ -49,7 +49,7 @@ public class Homework8 {
 							maximum = arr[i];
 					}
 			}
-			return maximum;
+			return (int) maximum;
 	}
 
 	/* Find and return the index of num in the
